@@ -1,11 +1,9 @@
-### Hi there 👋, I'm Arif Hossain
-#### Web Developer
 ![Web Developer](https://www.facebook.com/share/1AFGL9NZuC/)
 
+### Hi there 👋, I'm Arif Hossain
+#### Web Developer
 
 Skills: HTML / CSS/ Java Script 
-
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arif-sk-dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/arif-713//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/arif713)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/sk_arif_1)  
